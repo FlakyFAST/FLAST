@@ -1,6 +1,6 @@
 # Know Your Neighbor: Fast Static Prediction of Test Flakiness
 
-This repository is a companion page for the ICSE submission "Know Your Neighbor: Fast Static Prediction of Test Flakiness".
+This repository is a companion page for the submission "Know Your Neighbor: Fast Static Prediction of Test Flakiness".
 
 It contains all the material required for replicating the experiments, including: the algorithm implementation, the datasets and their ground truth, the scripts for the experiments replication, and the aggregated results to answer the research questions.
 
@@ -12,7 +12,7 @@ In order to replicate the experiment follow these steps:
 ### Getting started
 
 1. Clone the repository:
-   - `git clone https://github.com/ICSE2020-FLAST/FLAST`
+   - `git clone https://github.com/FlakyFAST/FLAST`
  
 2. If you do not have python3 installed you can get the appropriate version for your OS [here](https://www.python.org/downloads/).
 
